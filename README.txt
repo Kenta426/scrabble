@@ -1,3 +1,5 @@
+Final project from CS3110 (FA2016)
+
 README
 
 Eric Johnson (edj36)
